@@ -75,15 +75,11 @@
 
 
 
-## Simple Metherd
-
-### step 1
-[![Run on Repl.it](https://repl.it/badge/https://github.com/timashatimasha/QUEEN-ALEXA-WA-BOT)](https://replit.com/@timashatimasha/QUEEN-ALEXA-15?v=1)
-
-### step 2
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashatimasha/QUEEN-ALEXA-WA-BOT)
-
-
+### Simple Method
+### පලමු පියවර QR කෙතය සදහා 👇🤴
+[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@yasasdileepa/MARAYA-1?v=1)
+### දෙවන පියවර Bot deploy කිරිමට 👇       
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/maraya)
 
 
 
