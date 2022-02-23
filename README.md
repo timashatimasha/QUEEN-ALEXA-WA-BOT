@@ -1,15 +1,15 @@
-<h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝Black Vampired🐝⚖️</h1>
-<h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
+<h2 align="center"> 🕵🔑🕯🎩☠️ Hellow ☠️🎩🕯🔑🕵 <br>I'm <br>⚖️🐝QUEEN ALEXA🐝⚖️</h1>
+<h4 align="center">I am QUEEN ALEXA developer</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/HTZDMQX/LOGO.jpg" width="300" height="300">      
-  <h1>👸QUEEN AMDIBELL👸</h1>
+  <img src="blob:https://express.adobe.com/257ef6c6-9665-43e9-a4c2-be97a9d86bf7" width="300" height="300">      
+  <h1>👸QUEEN ALEXA👸</h1>
 
 	  
 	
 	
 <p align="center">
-  <a href="https://github.com/BlackVampired/Amdibell">
+  <a href="https://github.com/">
     <img src="https://komarev.com/ghpvc/?username=BlackVampired&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
