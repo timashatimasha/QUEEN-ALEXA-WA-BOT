@@ -16,14 +16,14 @@ async function whatsAsena() {
 	conn.version = [3, 3234, 9]
 
 	conn.on('connecting', async () => {
-		console.log(`${chalk.green.bold('Amdi')}${chalk.blue.bold('bell')}
-${chalk.white.italic('Amdibell Strings')}
+		console.log(`${chalk.green.bold('QUEEN')}${chalk.blue.bold('ALEXA')}
+${chalk.white.italic('QUEEN ALEXA Strings')}
 ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please wait.')}`);
 	});
 
 	conn.on('open', async () => {
 		console.log(
-			chalk.green.bold('Amdibell QR Code: '),
+			chalk.green.bold(' QUEEN ALEXAQR Code: '),
 			'AMDI;;;' +
 				Buffer.from(JSON.stringify(conn.base64EncodedAuthInfo())).toString(
 					'base64'
