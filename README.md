@@ -78,11 +78,9 @@
 ## Simple Metherd
 
 ### step 1
-
 [![Run on Repl.it](https://repl.it/badge/https://github.com/timashatimasha/QUEEN-ALEXA-WA-BOT)](https://replit.com/@timashatimasha/QUEEN-ALEXA-15?v=1)
 
 ### step 2
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/timashatimasha/QUEEN-ALEXA-WA-BOT)
 
 
