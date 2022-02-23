@@ -79,7 +79,7 @@
 
 ### step 1
 
-[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/https://github.com/timashatimasha/QUEEN-ALEXA-WA-BOT)](https://replit.com/@timashatimasha/QUEEN-ALEXA-15?v=1)
 
 ### step 2
 
@@ -87,55 +87,9 @@
 
 
 
-## 🔎 What Amdibell bot?
-**Queen Amdibell bot,** is a WhatsApp helper bot written by [Amda] and Developed by [mr.pasiya and sithum]. Does not log into your account It is written on WhatsApp Web API.
 
-### The Hard Method (Not Recommend)
-```js
-$ git clone https://github.com/kgamdaofficial.git
-$ cd kg amda duplicated
-$ npm i
-$ nano config.env
-// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/kgamdaofficial/wiki/config.env-Example
-// Create Config.env and edit it. Examle: https://github.com/kgamdaofficial/wiki/config.env-Example
-$ node bot.js
-```
 
-#### AmdA Team
 
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/fqn5sM7/LOGO.jpg" width="100" height="100" alt="KgAmda"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/8gMSvBB/LOGO.jpg" width="100" height="100" alt="Yasas dileepa"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/6Nb6hkx/LOGO.jpg" width="100" height="100" alt="no"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/gdbjswr/LOGO.jpg" width="100" height="100" alt="sithum"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/sWjm7g6/LOGO.jpg" width="100" height="100" alt="AmdiBell"></a></td>
-										                <td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/hYMLjVX/LOGO.jpg" width="100" height="100" alt="Mr.kaviya"></a></td>										                                                                                </tr>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired">KgAmda</a></br>(Founder)</td>
-												<td><a href="httsp://github.com/BlackVampired">Yasas dileepa</a></br>(Founder)</td>
-												<td><a href="httsp://github.com/BlackVampired/">no</a></br>(Public Supportive)</td>
-												<td><a href="httsp://github.com/BlackVampired">	sithum</a></br>(Web developer)</td>
-												<td><a href="httsp://github.com/BlackVampired/">AmdiBell</a></br>(Graphic Designer)</td>
-												<td><a href="httsp://github.com/BlackVampired">Mr.kaviya</a></br>(Group Management)</td>
-											</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/3CP2DPR/LOGO.jpg" width="100" height="100" alt="BlackHunt"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/cXVY9Yw/LOGO.jpg" width="100" height="100" alt="Gimhana"></a></td>
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/nz7BbrN/LOGO.jpg" width="100" height="100" alt="Mr.hasiya"></a></td>
-												
-												<td><a href="httsp://github.com/BlackVampired/"><img src="https://i.ibb.co/VBzzh95/LOGO.jpg" width="100" height="100" alt="Adeesha"></a></td>
-				                                                        </tr>
-											<tr>
-												<td><a href="httsp://github.com/BlackVampired">BlackHunt</a></br>(Group Management)</td>
-												<td><a href="httsp://github.com/BlackVampired/">Gimhana</a></br>(Group Management)</td>
-												<td><ahref="httsp://github.com/BlackVampired/">Mr.hasiya</a></br>(Ideas)</td>
-												
-												<td><a href="httsp://github.com/BlackVampired">Adeesha</a></br>(group management)</td>
 										</tbody>
 									</table>
 
