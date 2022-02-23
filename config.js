@@ -20,7 +20,7 @@ DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBU
 
 module.exports = {
     VERSION: 'v0.16.8 Public Stable',
-    SESSION: process.env.AMDI_SESSION === undefined ? '' : process.env.AMDI_SESSION,
+    SESSION: process.env.QUEENALEXA_SESSION === undefined ? '' : process.env.QUEENALEXA_SESSION,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.ibb.co/HTZDMQX/LOGO.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
