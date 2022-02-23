@@ -71,6 +71,16 @@
 </p>
 
 ```
+## Simple Metherd
+
+### step 1
+
+[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@KgAmda/Amdibell-QR?v=1)
+
+### step 2
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackVampired/Amdibell)
+
 
 
 
